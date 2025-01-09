@@ -7,7 +7,7 @@
 # Paul Scheffler <paulsc@iis.ee.ethz.ch>
 
 # Override this as needed
-CHS_SW_GCC_BINROOT ?= $(dir $(shell which riscv64-unknown-elf-gcc))
+CHS_SW_GCC_BINROOT = /software/riscv/riscv64-multilib-newlib/bin
 CHS_SW_DTC     ?= dtc
 
 CHS_SW_AR      := $(CHS_SW_GCC_BINROOT)/riscv64-unknown-elf-ar

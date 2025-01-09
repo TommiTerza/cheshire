@@ -7,7 +7,7 @@
 # Cyril Koenig <cykoenig@iis.ee.ethz.ch>
 # Paul Scheffler <paulsc@iis.ee.ethz.ch>
 
-VIVADO ?= vitis-2022.1 vivado
+VIVADO ?= vivado
 
 CHS_XILINX_DIR ?= $(CHS_ROOT)/target/xilinx
 
@@ -29,16 +29,18 @@ $(CHS_XILINX_DIR)/build/%/out.xci: \
 		$$(wildcard $(CHS_XILINX_DIR)/src/ips/$$*.prj) \
 		| $(CHS_XILINX_DIR)/build/%/
 	@rm -f $(CHS_XILINX_DIR)/build/$(*)*.log $(CHS_XILINX_DIR)/build/$(*)*.jou
-	cd $| && $(VIVADO) -mode batch -log ../$*.log -jou ../$*.jou -source $< -tclargs $(subst ., ,$*)
+	cd $| && $(VIVADO) -mode batch -log ../$*.log -jou ../$*.jou -source $< -tclargs $(subst .," ",$*)
 
 ##############
 # Bitstreams #
 ##############
 
-CHS_XILINX_BOARDS := genesys2 vcu128
+CHS_XILINX_BOARDS := genesys2 vcu128 zcu102
 
 CHS_XILINX_IPS_genesys2 := clkwiz vio mig7s
 CHS_XILINX_IPS_vcu128   := clkwiz vio ddr4
+CHS_XILINX_IPS_zcu102   := clkwiz vio 
+
 
 $(CHS_XILINX_DIR)/scripts/add_sources.%.tcl: $(CHS_ROOT)/Bender.yml
 	$(BENDER) script vivado -t fpga -t $* $(CHS_BENDER_RTL_FLAGS) > $@

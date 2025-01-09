@@ -27,7 +27,7 @@ if { ![info exists VOPTARGS] } {
     set VOPTARGS "-O5 +acc=p+tb_cheshire_soc. +noacc=p+cheshire_soc. +acc=r+stream_xbar"
 }
 
-set flags "-permissive -suppress 3009 -suppress 8386 -error 7 -cpppath ${CXX_PATH} "
+set flags "-voptargs=-permissive -suppress 12110 -suppress 3009 -suppress 8386 -suppress 1323 -error 7 -cpppath ${CXX_PATH}"
 if { [info exists SELCFG] } { append flags "-GSelectedCfg=${SELCFG} " }
 
 set pargs ""

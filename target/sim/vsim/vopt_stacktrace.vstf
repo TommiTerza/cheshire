@@ -1,0 +1,132 @@
+# Current time Tue Dec 10 12:34:24 2024
+# Program = voptk2
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = 9a2ce9d35477f105f015588ea99cdcfa
+# 0    0x00000000004822ab: '<unknown (@0x4822ab)>'
+# 1    0x000000000048268e: '<unknown (@0x48268e)>'
+# 2    0x0000000000482060: '<unknown (@0x482060)>'
+# 3    0x000000000048268e: '<unknown (@0x48268e)>'
+# 4    0x0000000000482060: '<unknown (@0x482060)>'
+# 5    0x0000000000482181: '<unknown (@0x482181)>'
+# 6    0x000000000048ccfa: '<unknown (@0x48ccfa)>'
+# 7    0x000000000049063e: '<unknown (@0x49063e)>'
+# 8    0x0000000000491951: '<unknown (@0x491951)>'
+# 9    0x00000000005d43bf: '<unknown (@0x5d43bf)>'
+# 10   0x00000000005d5d09: '<unknown (@0x5d5d09)>'
+# 11   0x0000000002130734: '<unknown (@0x2130734)>'
+# 12   0x00000000005d589e: '<unknown (@0x5d589e)>'
+# 13   0x00000000005d5c53: '<unknown (@0x5d5c53)>'
+# 14   0x00000000005d5ec4: '<unknown (@0x5d5ec4)>'
+# 15   0x000000000048d6fe: '<unknown (@0x48d6fe)>'
+# 16   0x00000000004926e7: '<unknown (@0x4926e7)>'
+# 17   0x0000000000652bbf: '<unknown (@0x652bbf)>'
+# 18   0x000000000067140c: '<unknown (@0x67140c)>'
+# 19   0x000000000114a867: '<unknown (@0x114a867)>'
+# 20   0x000000000114e35d: '<unknown (@0x114e35d)>'
+# 21   0x0000000000853d7e: '<unknown (@0x853d7e)>'
+# 22   0x00000000007faa56: '<unknown (@0x7faa56)>'
+# End of Stack Trace
+
+
+# Current time Tue Dec 10 12:45:47 2024
+# Program = voptk2
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = 9a2ce9d35477f105f015588ea99cdcfa
+# 0    0x00000000004822ab: '<unknown (@0x4822ab)>'
+# 1    0x000000000048268e: '<unknown (@0x48268e)>'
+# 2    0x0000000000482060: '<unknown (@0x482060)>'
+# 3    0x000000000048268e: '<unknown (@0x48268e)>'
+# 4    0x0000000000482060: '<unknown (@0x482060)>'
+# 5    0x0000000000482181: '<unknown (@0x482181)>'
+# 6    0x000000000048ccfa: '<unknown (@0x48ccfa)>'
+# 7    0x000000000049063e: '<unknown (@0x49063e)>'
+# 8    0x0000000000491951: '<unknown (@0x491951)>'
+# 9    0x00000000005d43bf: '<unknown (@0x5d43bf)>'
+# 10   0x00000000005d5d09: '<unknown (@0x5d5d09)>'
+# 11   0x0000000002130734: '<unknown (@0x2130734)>'
+# 12   0x00000000005d589e: '<unknown (@0x5d589e)>'
+# 13   0x00000000005d5c53: '<unknown (@0x5d5c53)>'
+# 14   0x00000000005d5ec4: '<unknown (@0x5d5ec4)>'
+# 15   0x000000000048d6fe: '<unknown (@0x48d6fe)>'
+# 16   0x00000000004926e7: '<unknown (@0x4926e7)>'
+# 17   0x0000000000652bbf: '<unknown (@0x652bbf)>'
+# 18   0x000000000067140c: '<unknown (@0x67140c)>'
+# 19   0x000000000114a867: '<unknown (@0x114a867)>'
+# 20   0x000000000114e35d: '<unknown (@0x114e35d)>'
+# 21   0x0000000000853d7e: '<unknown (@0x853d7e)>'
+# 22   0x00000000007faa56: '<unknown (@0x7faa56)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 10:52:07 2024
+# Program = voptk2
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = 9a2ce9d35477f105f015588ea99cdcfa
+# 0    0x00000000004822ab: '<unknown (@0x4822ab)>'
+# 1    0x000000000048268e: '<unknown (@0x48268e)>'
+# 2    0x0000000000482060: '<unknown (@0x482060)>'
+# 3    0x000000000048268e: '<unknown (@0x48268e)>'
+# 4    0x0000000000482060: '<unknown (@0x482060)>'
+# 5    0x0000000000482181: '<unknown (@0x482181)>'
+# 6    0x000000000048ccfa: '<unknown (@0x48ccfa)>'
+# 7    0x000000000049063e: '<unknown (@0x49063e)>'
+# 8    0x0000000000491951: '<unknown (@0x491951)>'
+# 9    0x00000000005d43bf: '<unknown (@0x5d43bf)>'
+# 10   0x00000000005d5d09: '<unknown (@0x5d5d09)>'
+# 11   0x0000000002130734: '<unknown (@0x2130734)>'
+# 12   0x00000000005d589e: '<unknown (@0x5d589e)>'
+# 13   0x00000000005d5c53: '<unknown (@0x5d5c53)>'
+# 14   0x00000000005d5ec4: '<unknown (@0x5d5ec4)>'
+# 15   0x000000000048d6fe: '<unknown (@0x48d6fe)>'
+# 16   0x00000000004926e7: '<unknown (@0x4926e7)>'
+# 17   0x0000000000652bbf: '<unknown (@0x652bbf)>'
+# 18   0x000000000067140c: '<unknown (@0x67140c)>'
+# 19   0x000000000114a867: '<unknown (@0x114a867)>'
+# 20   0x000000000114e35d: '<unknown (@0x114e35d)>'
+# 21   0x0000000000853d7e: '<unknown (@0x853d7e)>'
+# 22   0x00000000007faa56: '<unknown (@0x7faa56)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 10:57:34 2024
+# Program = voptk2
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = 9a2ce9d35477f105f015588ea99cdcfa
+# 0    0x00000000004822ab: '<unknown (@0x4822ab)>'
+# 1    0x000000000048268e: '<unknown (@0x48268e)>'
+# 2    0x0000000000482060: '<unknown (@0x482060)>'
+# 3    0x000000000048268e: '<unknown (@0x48268e)>'
+# 4    0x0000000000482060: '<unknown (@0x482060)>'
+# 5    0x0000000000482181: '<unknown (@0x482181)>'
+# 6    0x000000000048ccfa: '<unknown (@0x48ccfa)>'
+# 7    0x000000000049063e: '<unknown (@0x49063e)>'
+# 8    0x0000000000491951: '<unknown (@0x491951)>'
+# 9    0x00000000005d43bf: '<unknown (@0x5d43bf)>'
+# 10   0x00000000005d5d09: '<unknown (@0x5d5d09)>'
+# 11   0x0000000002130734: '<unknown (@0x2130734)>'
+# 12   0x00000000005d589e: '<unknown (@0x5d589e)>'
+# 13   0x00000000005d5c53: '<unknown (@0x5d5c53)>'
+# 14   0x00000000005d5ec4: '<unknown (@0x5d5ec4)>'
+# 15   0x000000000048d6fe: '<unknown (@0x48d6fe)>'
+# 16   0x00000000004926e7: '<unknown (@0x4926e7)>'
+# 17   0x0000000000652bbf: '<unknown (@0x652bbf)>'
+# 18   0x000000000067140c: '<unknown (@0x67140c)>'
+# 19   0x000000000114a867: '<unknown (@0x114a867)>'
+# 20   0x000000000114e35d: '<unknown (@0x114e35d)>'
+# 21   0x0000000000853d7e: '<unknown (@0x853d7e)>'
+# 22   0x00000000007faa56: '<unknown (@0x7faa56)>'
+# End of Stack Trace
+
+

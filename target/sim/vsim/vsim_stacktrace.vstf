@@ -1,0 +1,315 @@
+# Current time Wed Dec 11 12:19:36 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9ccab188: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9ccab4d6: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce86247: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 12:32:32 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9ccab188: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9ccab4d6: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce86247: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 13:57:00 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9cc75367: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9cc75696: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce40297: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 14:00:16 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9cc75367: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9cc75696: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce40297: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 14:01:25 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9cc75367: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9cc75696: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce40297: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Wed Dec 11 14:02:10 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9cc75367: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9cc75696: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce40297: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Thu Dec 12 12:32:19 2024
+# Program = vsim
+# Id = "2020.4"
+# Version = "2020.10"
+# Date = "Oct 13 2020"
+# Platform = "linux_x86_64"
+# Signature = cf04d75d68edbdd4473860698f2ea8fd
+# 0    0x00007ffff6e6bc17: '__memcpy_sse2_unaligned_erms + 0x0000000000000187' in '/lib64/libc.so.6'
+# 1    0x0000000000646c49: '<unknown (@0x646c49)>'
+# 2    0x00000000010d6bec: '<unknown (@0x10d6bec)>'
+# 3    0x00000000010d7301: '<unknown (@0x10d7301)>'
+# 4    0x00007fef9cc75367: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9cc75696: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9ce40297: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x000000000276c3ca: '<unknown (@0x276c3ca)>'
+# 8    0x0000000000554ac5: '<unknown (@0x554ac5)>'
+# 9    0x00000000006eefd3: '<unknown (@0x6eefd3)>'
+# 10   0x0000000000c060d5: '<unknown (@0xc060d5)>'
+# 11   0x0000000000c0b3db: '<unknown (@0xc0b3db)>'
+# 12   0x0000000000c0ccbe: '<unknown (@0xc0ccbe)>'
+# 13   0x0000000000ec388d: '<unknown (@0xec388d)>'
+# 14   0x0000000002bd7d5d: '<unknown (@0x2bd7d5d)>'
+# 15   0x0000000002bdc1b6: '<unknown (@0x2bdc1b6)>'
+# 16   0x0000000002bdd8a1: '<unknown (@0x2bdd8a1)>'
+# 17   0x0000000002bddc06: '<unknown (@0x2bddc06)>'
+# 18   0x0000000001128ad9: '<unknown (@0x1128ad9)>'
+# 19   0x0000000002c7db0f: '<unknown (@0x2c7db0f)>'
+# 20   0x0000000002cd1687: '<unknown (@0x2cd1687)>'
+# 21   0x0000000002c94577: '<unknown (@0x2c94577)>'
+# 22   0x0000000002c94859: '<unknown (@0x2c94859)>'
+# 23   0x0000000002a976dd: '<unknown (@0x2a976dd)>'
+# 24   0x0000000000bd39ec: '<unknown (@0xbd39ec)>'
+# End of Stack Trace
+
+
+# Current time Sun Dec 15 12:08:28 2024
+# Program = vsim
+# Id = "2024.3"
+# Version = "2024.09"
+# Date = "Sep 10 2024"
+# Platform = "linux_x86_64"
+# Signature = f5a7808f7b33ed03cbce5f3f41370762
+# 0    0x00007ffff6eee91a: '__memmove_avx_unaligned_erms + 0x000000000000011a' in '/lib64/libc.so.6'
+# 1    0x00000000006b4d5a: '<unknown (@0x6b4d5a)>'
+# 2    0x00000000012b3cd4: '<unknown (@0x12b3cd4)>'
+# 3    0x00000000012b4c81: '<unknown (@0x12b4c81)>'
+# 4    0x00007fef9c1c37b8: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9c1c3ade: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9c36fa47: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x0000000003bdd9d2: '<unknown (@0x3bdd9d2)>'
+# 8    0x00000000004d2ae7: '<unknown (@0x4d2ae7)>'
+# 9    0x00000000007a4d13: '<unknown (@0x7a4d13)>'
+# 10   0x0000000000d4611d: '<unknown (@0xd4611d)>'
+# 11   0x0000000000d4b5d0: '<unknown (@0xd4b5d0)>'
+# 12   0x0000000000d4cf4e: '<unknown (@0xd4cf4e)>'
+# 13   0x0000000001063bfd: '<unknown (@0x1063bfd)>'
+# 14   0x00000000040e52dd: '<unknown (@0x40e52dd)>'
+# 15   0x00000000040e9736: '<unknown (@0x40e9736)>'
+# 16   0x00000000040eae21: '<unknown (@0x40eae21)>'
+# 17   0x00000000040eb186: '<unknown (@0x40eb186)>'
+# 18   0x0000000001314001: '<unknown (@0x1314001)>'
+# 19   0x000000000418b08f: '<unknown (@0x418b08f)>'
+# 20   0x00000000041dec07: '<unknown (@0x41dec07)>'
+# 21   0x00000000041a1af7: '<unknown (@0x41a1af7)>'
+# 22   0x00000000041a1dd9: '<unknown (@0x41a1dd9)>'
+# 23   0x0000000003f4056d: '<unknown (@0x3f4056d)>'
+# 24   0x0000000000d0b074: '<unknown (@0xd0b074)>'
+# End of Stack Trace
+
+
+# Current time Sun Dec 15 12:11:56 2024
+# Program = vsim
+# Id = "2024.3"
+# Version = "2024.09"
+# Date = "Sep 10 2024"
+# Platform = "linux_x86_64"
+# Signature = f5a7808f7b33ed03cbce5f3f41370762
+# 0    0x00007ffff6eee91a: '__memmove_avx_unaligned_erms + 0x000000000000011a' in '/lib64/libc.so.6'
+# 1    0x00000000006b4d5a: '<unknown (@0x6b4d5a)>'
+# 2    0x00000000012b3cd4: '<unknown (@0x12b3cd4)>'
+# 3    0x00000000012b4c81: '<unknown (@0x12b4c81)>'
+# 4    0x00007fef9c1c37b8: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:597'
+# 5    0x00007fef9c1c3ade: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/vip_cheshire_soc.sv:595'
+# 6    0x00007fef9c36fa47: '/home/tommaso.terzano/main/Source/cheshire/target/sim/src/tb_cheshire_soc.sv:34'
+# 7    0x0000000003bdd9d2: '<unknown (@0x3bdd9d2)>'
+# 8    0x00000000004d2ae7: '<unknown (@0x4d2ae7)>'
+# 9    0x00000000007a4d13: '<unknown (@0x7a4d13)>'
+# 10   0x0000000000d4611d: '<unknown (@0xd4611d)>'
+# 11   0x0000000000d4b5d0: '<unknown (@0xd4b5d0)>'
+# 12   0x0000000000d4cf4e: '<unknown (@0xd4cf4e)>'
+# 13   0x0000000001063bfd: '<unknown (@0x1063bfd)>'
+# 14   0x00000000040e52dd: '<unknown (@0x40e52dd)>'
+# 15   0x00000000040e9736: '<unknown (@0x40e9736)>'
+# 16   0x00000000040eae21: '<unknown (@0x40eae21)>'
+# 17   0x00000000040eb186: '<unknown (@0x40eb186)>'
+# 18   0x0000000001314001: '<unknown (@0x1314001)>'
+# 19   0x000000000418b08f: '<unknown (@0x418b08f)>'
+# 20   0x00000000041dec07: '<unknown (@0x41dec07)>'
+# 21   0x00000000041a1af7: '<unknown (@0x41a1af7)>'
+# 22   0x00000000041a1dd9: '<unknown (@0x41a1dd9)>'
+# 23   0x0000000003f4056d: '<unknown (@0x3f4056d)>'
+# 24   0x0000000000d0b074: '<unknown (@0xd0b074)>'
+# End of Stack Trace
+
+

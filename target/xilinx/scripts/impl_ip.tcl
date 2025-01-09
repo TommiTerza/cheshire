@@ -51,7 +51,7 @@ switch $proj {
                     CONFIG.CLKOUT4_PHASE_ERROR {89.971} \
                     ] [get_ips $proj]
             }
-            vcu128 {
+            vcu128 or zcu102{
                 set_property -dict [list \
                     CONFIG.CLK_IN1_BOARD_INTERFACE {Custom} \
                     CONFIG.RESET_BOARD_INTERFACE {Custom} \
@@ -87,6 +87,7 @@ switch $proj {
                     CONFIG.CLKOUT4_PHASE_ERROR {89.971} \
                     ] [get_ips $proj]
             }
+            
             default { nocfgexit $proj $board }
         }
     }
@@ -105,7 +106,7 @@ switch $proj {
                     CONFIG.C_NUM_PROBE_IN {0} \
                     ] [get_ips $proj]
             }
-            vcu128 {
+            vcu128 or zcu102{
                 set_property -dict [list \
                     CONFIG.C_NUM_PROBE_OUT {3} \
                     CONFIG.C_PROBE_OUT0_INIT_VAL {0x0} \
@@ -116,6 +117,7 @@ switch $proj {
                     CONFIG.C_NUM_PROBE_IN {0} \
                     ] [get_ips $proj]
             }
+            
             default { nocfgexit $proj $board }
         }
     }
@@ -151,6 +153,27 @@ switch $proj {
                     CONFIG.C0.DDR4_CLKOUT0_DIVIDE {3} \
                     CONFIG.C0.DDR4_MemoryPart {MT40A512M16HA-075E} \
                     CONFIG.C0.DDR4_DataWidth {72} \
+                    CONFIG.C0.DDR4_DataMask {NO_DM_NO_DBI} \
+                    CONFIG.C0.DDR4_Ecc {true} \
+                    CONFIG.C0.DDR4_AxiDataWidth {512} \
+                    CONFIG.C0.DDR4_AxiAddressWidth {32} \
+                    CONFIG.C0.DDR4_AxiIDWidth {8} \
+                    CONFIG.ADDN_UI_CLKOUT1_FREQ_HZ {100} \
+                    CONFIG.C0.BANK_GROUP_WIDTH {1} \
+                    CONFIG.C0.CS_WIDTH {2} \
+                    CONFIG.C0.DDR4_AxiSelection {true} \
+                    ] [get_ips $proj]
+            }
+            zcu104 {
+                set_property -dict [list \
+                    CONFIG.C0.DDR4_Clamshell {true} \
+                    CONFIG.C0_DDR4_BOARD_INTERFACE {ddr4_sdram} \
+                    CONFIG.System_Clock {No_Buffer} \
+                    CONFIG.Reference_Clock {No_Buffer} \
+                    CONFIG.C0.DDR4_InputClockPeriod {3335} \
+                    CONFIG.C0.DDR4_CLKOUT0_DIVIDE {3} \
+                    CONFIG.C0.DDR4_MemoryPart {MT40A512M16HA-075E} \
+                    CONFIG.C0.DDR4_DataWidth {64} \
                     CONFIG.C0.DDR4_DataMask {NO_DM_NO_DBI} \
                     CONFIG.C0.DDR4_Ecc {true} \
                     CONFIG.C0.DDR4_AxiDataWidth {512} \
